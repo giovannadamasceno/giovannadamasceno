@@ -7,6 +7,15 @@
 - 🚀 I’m currently learning C#/.NET, Linux, Azure Security & Identity, Developing in Azure.
 - 📩 How to reach me: gdamascenomoreira@gmail.com
 
+ <div> 
+  <a href="https://www.youtube.com/c/GIOCLOUDTECH" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href=" https://www.instagram.com/giocloudtech/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/giocloudtech" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gdamascenomoreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/giovannadamasceno/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    
+  </div> 
+  
 ##
 
 <div align="left">
@@ -21,20 +30,13 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
   
+  
   ##
   
-  <div> 
-  <a href="https://www.youtube.com/c/GIOCLOUDTECH" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href=" https://www.instagram.com/giocloudtech/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/giocloudtech" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gdamascenomoreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/giovannadamasceno/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
-    
-    ##
- 
+   <div> 
+   
   ![Snake animation](https://github.com/giovannadamasceno/giovannadamasceno/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+  </div>
   
   
